@@ -1,4 +1,3 @@
-# Modern Application Development 
 # Quiz_Master (Kwizziz) 🎓🧠
 
 A full-stack quiz management system built using **Flask (Python)** for the backend and **Vue.js** for the frontend. Designed as part of the **Modern Application Development**.
