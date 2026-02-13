@@ -30,7 +30,7 @@ A full-stack quiz management system built using **Flask (Python)** for the backe
 - Celery + Redis (Background Tasks)
 
 ### Frontend
-- Vue.js (Vue CLI)
+- Vue.js 
 - Bootstrap (Styling)
 - Axios (API requests)
 
